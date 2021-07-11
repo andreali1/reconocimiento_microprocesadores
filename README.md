@@ -15,7 +15,7 @@ procesamiento, entrenaminto y reconocimiento
 
 EJECUCION:
 	
-    - Escribir el nombre de la persona que se reconocer en el script 'nombre.py'
+    - Escribir el nombre de la persona que se va reconocer en el script 'nombre.py'
       para que se cree la carpeta con el nombre cuando se apunte al entrenamiento
       para reconociminto facial    
     - Ejecutar el script Captur.py
