@@ -14,7 +14,10 @@ si ya se encuentran en el storage interno para su
 procesamiento, entrenaminto y reconocimiento 
 
 EJECUCION:
-    
+	
+    - Escribir el nombre de la persona que se reconocer en el script 'nombre.py'
+      para que se cree la carpeta con el nombre cuando se apunte al entrenamiento
+      para reconociminto facial    
     - Ejecutar el script Captur.py
     - Ejecutar el scrpt reconocimiento
         
